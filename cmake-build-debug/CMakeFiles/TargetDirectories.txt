@@ -1,3 +1,3 @@
-/home/jeppe/devel/projects/AttemptAtGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jeppe/devel/projects/AttemptAtGit/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jeppe/devel/projects/AttemptAtGit/cmake-build-debug/CMakeFiles/AttemptAtGit.dir
+/home/jeppe/CLionProjects/AttemptAtGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jeppe/CLionProjects/AttemptAtGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jeppe/CLionProjects/AttemptAtGit/cmake-build-debug/CMakeFiles/AttemptAtGit.dir
